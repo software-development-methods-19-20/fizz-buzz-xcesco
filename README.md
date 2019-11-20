@@ -6,3 +6,5 @@
    * For multiples of 3 and 7 print "_FizzBang_".
    * For multiples of 5 and 7 print "_BuzzBang_".
    * For multiples of 3, 5 and 7 print "_FizzBuzzBang_".
+
+## Ok, finished! :ok_hand:
