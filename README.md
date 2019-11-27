@@ -1,3 +1,5 @@
+**Ok, finished! :ok_hand:**
+
 # Fizz-Buzz assignment
 
 1. Complete the [Fizz-Buzz Kata](http://wiki.c2.com/?FizzBuzzTest).
@@ -7,4 +9,4 @@
    * For multiples of 5 and 7 print "_BuzzBang_".
    * For multiples of 3, 5 and 7 print "_FizzBuzzBang_".
 
-**Ok, finished! :ok_hand:**
+
